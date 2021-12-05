@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>竟何</title>
+    <link href="https://lylelove.github.io/feed.xml" rel="self" />
+    <link href="https://lylelove.github.io" />
+    <updated>2021-12-05T14:02:51+08:00</updated>
+    <author>
+        <name>竟何</name>
+    </author>
+    <id>https://lylelove.github.io</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>竟何</name>
+        </author>
+        <link href="https://lylelove.github.io/test.html"/>
+        <id>https://lylelove.github.io/test.html</id>
+
+        <updated>2021-12-05T14:02:51+08:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
