@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lylelove.github.io</id>
+    <id>https://lylelove.ml</id>
     <title>竟何</title>
-    <updated>2021-12-05T05:23:47.159Z</updated>
+    <updated>2021-12-05T05:27:18.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lylelove.github.io"/>
-    <link rel="self" href="https://lylelove.github.io/atom.xml"/>
+    <link rel="alternate" href="https://lylelove.ml"/>
+    <link rel="self" href="https://lylelove.ml/atom.xml"/>
     <subtitle>你想把你的温柔和迷恋一同给他／ 
 让微凉的风当邮差／
 送给他一封长信／</subtitle>
-    <logo>https://lylelove.github.io/images/avatar.png</logo>
-    <icon>https://lylelove.github.io/favicon.ico</icon>
+    <logo>https://lylelove.ml/images/avatar.png</logo>
+    <icon>https://lylelove.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, 竟何</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lylelove.github.io/post/hello-gridea/</id>
-        <link href="https://lylelove.github.io/post/hello-gridea/">
+        <id>https://lylelove.ml/post/hello-gridea/</id>
+        <link href="https://lylelove.ml/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
