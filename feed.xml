@@ -3,12 +3,34 @@
     <title>竟何</title>
     <link href="https://lylelove.github.io/feed.xml" rel="self" />
     <link href="https://lylelove.github.io" />
-    <updated>2021-12-05T14:53:21+08:00</updated>
+    <updated>2021-12-08T15:31:37+08:00</updated>
     <author>
         <name>竟何</name>
     </author>
     <id>https://lylelove.github.io</id>
 
+    <entry>
+        <title>test2</title>
+        <author>
+            <name>竟何</name>
+        </author>
+        <link href="https://lylelove.github.io/test2.html"/>
+        <id>https://lylelove.github.io/test2.html</id>
+
+        <updated>2021-12-08T15:31:37+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lylelove.github.io/media/posts/2/wallhaven-1kr2kg.jpg" alt="" />
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://lylelove.github.io/media/posts/2/wallhaven-1kr2kg.jpg" alt="" />
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test</title>
         <author>
@@ -17,14 +39,16 @@
         <link href="https://lylelove.github.io/test.html"/>
         <id>https://lylelove.github.io/test.html</id>
 
-        <updated>2021-12-05T14:53:21+08:00</updated>
+        <updated>2021-12-08T15:31:08+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://lylelove.github.io/media/posts/1/wallhaven-3z32j3_1920x1080.png" alt="" />
                     test 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://lylelove.github.io/media/posts/1/wallhaven-3z32j3_1920x1080.png" alt="" />
                 <p>test</p>
 <p> </p>
             ]]>

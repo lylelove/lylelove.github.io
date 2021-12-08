@@ -5,24 +5,39 @@
     "home_page_url": "https://lylelove.github.io",
     "feed_url": "https://lylelove.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://lylelove.github.io/media/website/IMG_20211202_112224-modified.png",
     "author": {
         "name": "竟何"
     },
     "items": [
+        {
+            "id": "https://lylelove.github.io/test2.html",
+            "url": "https://lylelove.github.io/test2.html",
+            "title": "test2",
+            "summary": "test",
+            "content_html": "<p>test</p>",
+            "image": "https://lylelove.github.io/media/posts/2/wallhaven-1kr2kg.jpg",
+            "author": {
+                "name": "竟何"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-08T15:31:37+08:00",
+            "date_modified": "2021-12-08T15:31:37+08:00"
+        },
         {
             "id": "https://lylelove.github.io/test.html",
             "url": "https://lylelove.github.io/test.html",
             "title": "test",
             "summary": "test ",
             "content_html": "<p>test</p>\n<p> </p>",
+            "image": "https://lylelove.github.io/media/posts/1/wallhaven-3z32j3_1920x1080.png",
             "author": {
                 "name": "竟何"
             },
             "tags": [
             ],
             "date_published": "2021-12-05T14:02:51+08:00",
-            "date_modified": "2021-12-05T14:53:21+08:00"
+            "date_modified": "2021-12-08T15:31:08+08:00"
         }
     ]
 }
