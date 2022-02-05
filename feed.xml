@@ -3,12 +3,101 @@
     <title>竟何</title>
     <link href="https://www.lylelove.top/feed.xml" rel="self" />
     <link href="https://www.lylelove.top" />
-    <updated>2022-01-20T09:36:50+08:00</updated>
+    <updated>2022-02-05T23:00:35+08:00</updated>
     <author>
         <name>竟何</name>
     </author>
     <id>https://www.lylelove.top</id>
 
+    <entry>
+        <title>茶末Vol.9：加拿大的最高峰</title>
+        <author>
+            <name>竟何</name>
+        </author>
+        <link href="https://www.lylelove.top/cha-mo-vol9.html"/>
+        <id>https://www.lylelove.top/cha-mo-vol9.html</id>
+            <category term="茶末周刊"/>
+
+        <updated>2022-02-05T23:00:35+08:00</updated>
+            <summary>
+                <![CDATA[
+                     茶末，指茶叶的碎末，在制作茶叶过程中产生的副产品。&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote class="wp-block-quote has-text-align-center">
+<p><strong>茶末，指茶叶的碎末，在制作茶叶过程中产生的副产品。</strong></p>
+</blockquote>
+<p><!-- /wp:quote --></p>
+<p><!-- wp:separator --></p>
+<hr class="wp-block-separator">
+<p><!-- /wp:separator --></p>
+<p><!-- wp:heading {"textAlign":"center"} --></p>
+<h2 class="has-text-align-center">封面图</h2>
+<p>海拔5959公尺的洛根山是加拿大的最高峰，也是北美洲第二高峰。摄于加拿大育空地区西南角的克鲁瓦尼国家公园及保留地。/Robert Postma/高品图像Gaopinimages</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/d916f543cc90a6ccac1c46fc8794b785.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/d916f543cc90a6ccac1c46fc8794b785-xs.jpg 300w ,https://www.lylelove.top/media/posts/31/responsive/d916f543cc90a6ccac1c46fc8794b785-sm.jpg 480w ,https://www.lylelove.top/media/posts/31/responsive/d916f543cc90a6ccac1c46fc8794b785-md.jpg 768w"  alt="" width="2709" height="1806"></figure>
+<h2>工具</h2>
+<p><a href="https://github.com/ssssssss-team/spider-flow">1.Spider Flow</a></p>
+<p>一个高度灵活可配置的爬虫平台，用户无需编写代码，以流程图的方式，即可实现爬虫。</p>
+<p>该工具支持多数据源、自动保存至数据库、任务监控、抓取 JS 动态渲染页面、插件扩展（OCR 识别、邮件发送）等功能。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/photo_2021-11-19_18-39-57.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/photo_2021-11-19_18-39-57-xs.jpg 300w ,https://www.lylelove.top/media/posts/31/responsive/photo_2021-11-19_18-39-57-sm.jpg 480w ,https://www.lylelove.top/media/posts/31/responsive/photo_2021-11-19_18-39-57-md.jpg 768w"  alt="" width="943" height="790"></figure>
+<p><a href="https://github.com/pipipi-pikachu/PPTist">2.PPTist</a></p>
+<p>一个基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，支持 文字、图片、形状、线条、图表、表格、视频、音频、公式 几种最常用的元素类型，每一种元素都拥有高度可编辑能力，同时支持丰富的快捷键和右键菜单，支持导出本地PPTX文件，您可以在此基础上搭建自己的在线幻灯片应用。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/Snipaste_2022-01-14_17-28-23.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-28-23-xs.png 300w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-28-23-sm.png 480w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-28-23-md.png 768w"  alt="" width="1920" height="914"></figure>
+<p><a href="https://github.com/fangpenlin/avataaars-generator">3.avataaars-generator</a></p>
+<p>一款开源的卡通头像生成器，可自定义发型、眼镜、肤色、衣着、嘴型等属性。</p>
+<p>定制完成后，可将头像导出成 PNG 和 SVG 格式的图片，或把头像代码内嵌到个人网站上。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/Snipaste_2021-12-10_13-50-23.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/Snipaste_2021-12-10_13-50-23-xs.png 300w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2021-12-10_13-50-23-sm.png 480w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2021-12-10_13-50-23-md.png 768w"  alt="" width="1026" height="893"></figure>
+<p><a href="https://github.com/icue/DoubanImageWall">4.DoubanImageWall</a></p>
+<p>生成豆瓣电影海报墙/音乐专辑封面墙/图书封面墙。</p>
+<p>读取豆瓣用户标记为“看过”的电影/“听过”的音乐/“读过”的图书，生成电影海报墙/音乐专辑封面墙/图书封面墙。操作简单，了解GitHub Action基础即可食用。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/Snipaste_2022-01-04_11-16-05.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-04_11-16-05-xs.png 300w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-04_11-16-05-sm.png 480w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-04_11-16-05-md.png 768w"  alt="ID=lylelove" width="1206" height="449"></figure>
+<p><a href="https://github.com/xCss/Valine">5.Valine</a></p>
+<p>一款快速、简洁且高效的无后端评论系统，基于LeanCloud的快速、简洁且高效的无后端评论系统。理论上支持但不限于静态博客。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/Snipaste_2022-01-14_17-21-58.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-21-58-xs.png 300w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-21-58-sm.png 480w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-21-58-md.png 768w"  alt="" width="1027" height="582"></figure>
+<h2>网站</h2>
+<p><a href="https://waifulabs.com/">6.waifulabs</a></p>
+<p>只需要轻松点几下，你的老婆就能由 AI 帮你自动生成。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/Snipaste_2022-01-14_17-33-48.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-33-48-xs.png 300w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-33-48-sm.png 480w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-33-48-md.png 768w"  alt="" width="1920" height="914"></figure>
+<p><a href="https://microstudio.dev">7.microstudio</a></p>
+<p>集搜索、开发、学习、体验、交流等功能于一身。网站游戏相关的资源相当丰富</p>
+<p>平台的「Explore」功能，可以搜索与体验你感兴趣的小游戏；「Create」功能附带一个可在线运行的游戏代码编辑器；「Tutorials」则让你能在线学习游戏开发。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/Snipaste_2022-01-14_17-37-09.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-37-09-xs.png 300w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-37-09-sm.png 480w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-01-14_17-37-09-md.png 768w"  alt="" width="1920" height="914"></figure>
+<p><a href="https://www.oldmapsonline.org/">8.Old Maps Online</a></p>
+<p>OldMapsOnline 源于对历史和旧地图遗产的热爱，索引了超过 400.000 张地图，旨在展示用于发布历史地图的工具的组合，重点是它们对公众的易用性。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/Snipaste_2022-02-05_22-17-37.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-17-37-xs.png 300w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-17-37-sm.png 480w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-17-37-md.png 768w"  alt="" width="1920" height="914"></figure>
+<h2>摘录</h2>
+<p><a href="https://sspai.com/post/70949">9.Wordle 是什么？怎么就突然火了？</a></p>
+<p>如果你关注社交网络，应该对最近密集出现的这样一种推文不陌生：主体内容只有红、绿、灰三色的 emoji 方块，再配上或兴奋或懊恼的寥寥数语。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/11198047f656210df4948437c746b19f.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/11198047f656210df4948437c746b19f-xs.png 300w ,https://www.lylelove.top/media/posts/31/responsive/11198047f656210df4948437c746b19f-sm.png 480w ,https://www.lylelove.top/media/posts/31/responsive/11198047f656210df4948437c746b19f-md.png 768w"  alt="" width="1120" height="1716"></figure>
+<p><a href="https://sspai.com/post/70799">10.一派·Podcast｜少数派 × 晚点聊：知乎的迷途</a></p>
+<p>和汉洋一起聊聊他眼中的知乎，再听老麦谈谈少数派与知乎的背后故事。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/cf223039-280c-904c-a33a-bfb9df36a788.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/cf223039-280c-904c-a33a-bfb9df36a788-xs.jpg 300w ,https://www.lylelove.top/media/posts/31/responsive/cf223039-280c-904c-a33a-bfb9df36a788-sm.jpg 480w ,https://www.lylelove.top/media/posts/31/responsive/cf223039-280c-904c-a33a-bfb9df36a788-md.jpg 768w"  alt="" width="1420" height="708"></figure>
+<p><a href="https://onojyun.com/2022/01/08/%e2%96%b3-008%ef%bd%9c%e6%b5%85%e8%b0%88%e7%ae%80%e4%b8%ad%e7%8e%af%e5%a2%83%e7%94%9f%e5%ad%98%e8%a7%84%e5%88%99/">11.浅谈简中环境生存规则 I</a></p>
+<p>「违反法律法规」反倒成了一块遮羞布，是官家对真相抹杀的一种惯用手法，当人们看到这个字眼，反而会去猜测过去这里到底有过什么。</p>
+<p><a href="https://restofworld.org/2022/inside-the-daily-grind-of-one-of-indias-biggest-influencer-families/">12. “Everything is content”: Inside the daily grind of one of India’s biggest influencer families</a></p>
+<p>The Singhs are one of India’s most-followed social media influencer families. With six YouTube channels, five individual Instagram accounts, three Facebook pages, and two accounts on MX TakaTak, they have a total social media following of over 18 million. Their YouTube videos — which offer a peek into their day-to-day life, almost like Keeping Up with the Kardashians on a budget — have been watched over 8 billion times. Each week, the family produces 75 Reels and 35 video posts for Instagram, and 35 Shorts and 20 full-length videos for YouTube, featuring everything from short films and vlogs to dance videos. They have promotional deals with major brands and entertainment studios, even their own merchandise line.</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/SAM3698-1600x900.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/SAM3698-1600x900-xs.jpg 300w ,https://www.lylelove.top/media/posts/31/responsive/SAM3698-1600x900-sm.jpg 480w ,https://www.lylelove.top/media/posts/31/responsive/SAM3698-1600x900-md.jpg 768w"  alt="" width="1600" height="900"></figure>
+<h2>推荐</h2>
+<p><a href="https://www.youtube.com/watch?v=OrxmtDw4pVI">Vue.js纪录片</a></p>
+<p>纪录Vue.js尤雨溪 - Honeypot呈现</p>
+<p>Vue作者尤雨溪亲身讲述Vue的发展历程，同时还有Vue核心成员、Laravel之父等出镜。</p>
+<p><a href="#INTERNAL_LINK#/post/null">B站链接</a><a href="https://www.bilibili.com/video/BV1L7411M7Ut"></a></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/Snipaste_2022-02-05_22-30-06.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-30-06-xs.png 300w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-30-06-sm.png 480w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-30-06-md.png 768w"  alt="" width="308" height="166"></figure>
+<h3>Vue小游戏</h3>
+<p>假期在家学习Vue，写了两个小游戏。</p>
+<p><a href="https://github.com/lylelove/Dynasty">1.王朝</a></p>
+<p>🎑王朝，一个由 Vue+element 搭建的前端小游戏。</p>
+<p>原本打算要持续更新，做成一个像样的小游戏，结果现在自己只顾着刷题了。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/Snipaste_2022-02-05_22-35-07.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-35-07-xs.png 300w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-35-07-sm.png 480w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-35-07-md.png 768w"  alt="" width="1920" height="914"></figure>
+<p><a href="https://github.com/lylelove/GuoNanSimulator">2.国男大冒险</a></p>
+<p>🧑国男大冒险，本项目来源于fengzi2333的GuoNanSimulator项目。 经lylelove使用Vue重构。</p>
+<p>本项目故事脚本与本人无任何关系，项目源代码中所有汉字据来源于fengzi2333的GuoNanSimulator项目。</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.lylelove.top/media/posts/31/Snipaste_2022-02-05_22-37-41.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-37-41-xs.png 300w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-37-41-sm.png 480w ,https://www.lylelove.top/media/posts/31/responsive/Snipaste_2022-02-05_22-37-41-md.png 768w"  alt="" width="1920" height="914"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>爱上卡夫卡女孩</title>
         <author>
@@ -71,7 +160,7 @@
         <id>https://www.lylelove.top/cha-mo-vol8.html</id>
             <category term="茶末周刊"/>
 
-        <updated>2022-01-19T19:33:36+08:00</updated>
+        <updated>2022-02-05T22:47:14+08:00</updated>
             <summary>
                 <![CDATA[
                      茶末，指茶叶的碎末，在制作茶叶过程中产生的副产品。&hellip;
@@ -1454,70 +1543,6 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>或许我只是因为再也没有一个能在后半夜聊天的人了。</p>
-<p><!-- /wp:paragraph --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>茶末Vol.2：冰箱制成的时光机</title>
-        <author>
-            <name>竟何</name>
-        </author>
-        <link href="https://www.lylelove.top/cha-mo-vol2.html"/>
-        <id>https://www.lylelove.top/cha-mo-vol2.html</id>
-            <category term="茶末周刊"/>
-
-        <updated>2022-01-19T19:36:38+08:00</updated>
-            <summary>
-                <![CDATA[
-                     茶末，指茶叶的碎末，在制作茶叶过程中产生的副产品。&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:quote {"align":"center"} --></p>
-<blockquote class="wp-block-quote has-text-align-center">
-<p><strong>茶末，指茶叶的碎末，在制作茶叶过程中产生的副产品。</strong></p>
-</blockquote>
-<p><!-- /wp:quote --></p>
-<p><!-- wp:separator --></p>
-<hr class="wp-block-separator"><!-- /wp:separator -->
-<p><!-- wp:heading {"textAlign":"center"} --></p>
-<h2 class="has-text-align-center">封面图</h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p>1985年的科幻电影《回到未来》中主角乘坐的时光机，其实是冰箱改造的。</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.lylelove.top/media/posts/3/Feng-2.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/3/responsive/Feng-2-xs.jpg 300w ,https://www.lylelove.top/media/posts/3/responsive/Feng-2-sm.jpg 480w ,https://www.lylelove.top/media/posts/3/responsive/Feng-2-md.jpg 768w"  alt="" width="4096" height="2702"></figure>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"textAlign":"center"} --></p>
-<h2 class="has-text-align-center">技术</h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p><a href="https://github.com/bradtraversy/50projects50days">1.50天完成50个前端项目</a><br>50 个采用 HTML+CSS+JS 的前端小项目集合。项目包含网页源码和效果展示，标准入门级的前端开源项目。通过查看效果让新手感受前端的美妙，简单的源码降低了上手写代码门槛。<br><img loading="lazy" src="https://www.lylelove.top/media/posts/3/cnGqh3fadtsLPyz.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/3/responsive/cnGqh3fadtsLPyz-xs.png 300w ,https://www.lylelove.top/media/posts/3/responsive/cnGqh3fadtsLPyz-sm.png 480w ,https://www.lylelove.top/media/posts/3/responsive/cnGqh3fadtsLPyz-md.png 768w"  alt=""><br><a href="https://github.com/doublespeakgames/adarkroom">2.A Dark Room</a><br>一个用JavaScript写成的网页文字冒险游戏，支持存档。<br><img loading="lazy" src="https://www.lylelove.top/media/posts/3/gL7ktSxaAil51oO.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/3/responsive/gL7ktSxaAil51oO-xs.png 300w ,https://www.lylelove.top/media/posts/3/responsive/gL7ktSxaAil51oO-sm.png 480w ,https://www.lylelove.top/media/posts/3/responsive/gL7ktSxaAil51oO-md.png 768w"  alt=""><br><a href="https://blog.oioweb.cn/90.html">3.Python如何运行JavaScript代码</a><br>爬虫的开发过程中，往往需要对JS进行模拟，简单或者通用的还可以在Python中模拟或者找到对应的第三方库，但是复杂的就可能不好实现了。所以Python执行JS语句就是爬虫开发过程中的一个痛点，而能执行JS语句的第三方库常见的有selenium、execjs、PyV8。<br><a href="https://paugram.com/coding/not-even-used-css-attribute.html">4.CSS 那些不太常用的属性</a><br>基本上是写的较少，容易被忘记，但却有用的 CSS 属性，整理出来做个备忘吧！<br>说实话，笔者觉得这几个属性属实是不大能用到，而且也可以通过别的方式替代，但是想要炫技的话说不得可以看一看。<br><a href="https://github.com/liriliri/eruda">5.Eruda</a><br>Eruda 是一个专为手机网页前端设计的调试面板，类似 DevTools 的迷你版，其主要功能包括：捕获 console 日志、检查元素状态、捕获XHR请求、显示本地存储和 Cookie 信息等等。<br><img loading="lazy" src="https://www.lylelove.top/media/posts/3/D4x3FRHv8Jo6GUO.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/3/responsive/D4x3FRHv8Jo6GUO-xs.jpg 300w ,https://www.lylelove.top/media/posts/3/responsive/D4x3FRHv8Jo6GUO-sm.jpg 480w ,https://www.lylelove.top/media/posts/3/responsive/D4x3FRHv8Jo6GUO-md.jpg 768w"  alt=""><br><a href="https://laowangblog.com/how-to-retrieve-client-ip-with-javascript.html">6.JavaScript 获取客户端 IP 地址以及用户所在地(省份/城市)教程 </a><br>使用搜狐的API，纯JavaScript获取客户端 IP 地址以及用户所在地的方法，只要客户访问了你的网站，你就可以得到这个用户的 IP 地址，以及省份和城市。</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"textAlign":"center"} --></p>
-<h2 class="has-text-align-center">有趣</h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p><a href="https://blog.werner.wiki/marshall-and-pc/">1.10亿细菌一口闷：马歇尔和幽门螺旋杆菌</a><br>"1984 年 6 月 12 日上午 11 点1，澳大利亚弗里曼特尔医院的一间实验室中，32 岁的巴里·马歇尔从同事尼尔·诺克斯手中接过一根玻璃试管。他把试管举到眼睛的高度，在澳洲冬日的阳光中端详着试管底部的一点蛋白胨水。"<br>一篇关于幽门螺杆菌的发现的博文。<br><a href="https://github.com/skydevil88/XboxDownload">2.Xbox 下载助手</a><br>Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop &amp; Origin 下载加速。<br>微软暑假前有个XGP三个月10港币的优惠活动，正好假期基本包括了，但是下载游戏的时候总觉得拉不满网速，平常steam30mb一秒的速度到了Xbox就只剩下10mb，使用下载助手之后不能说完全一样，至少比原先稳定多了。<br><img loading="lazy" src="https://www.lylelove.top/media/posts/3/fPVXCEN8LBzjK9l.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/3/responsive/fPVXCEN8LBzjK9l-xs.png 300w ,https://www.lylelove.top/media/posts/3/responsive/fPVXCEN8LBzjK9l-sm.png 480w ,https://www.lylelove.top/media/posts/3/responsive/fPVXCEN8LBzjK9l-md.png 768w"  alt=""><br><a href="https://www.qmsjmfb.com/">3.网名在线生成器</a><br>写小说的时候可能会用到，除了中文网名外，还有英文韩文、日文网名。<br><img loading="lazy" src="https://www.lylelove.top/media/posts/3/OkWhEaXjD1KVzB2.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/3/responsive/OkWhEaXjD1KVzB2-xs.png 300w ,https://www.lylelove.top/media/posts/3/responsive/OkWhEaXjD1KVzB2-sm.png 480w ,https://www.lylelove.top/media/posts/3/responsive/OkWhEaXjD1KVzB2-md.png 768w"  alt=""><br><a href="https://www.beepbox.co/">4.BeepBox</a><br>一个电子乐在线合成网站。<br><img loading="lazy" src="https://www.lylelove.top/media/posts/3/HXEhtkoROqay8GV.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/3/responsive/HXEhtkoROqay8GV-xs.png 300w ,https://www.lylelove.top/media/posts/3/responsive/HXEhtkoROqay8GV-sm.png 480w ,https://www.lylelove.top/media/posts/3/responsive/HXEhtkoROqay8GV-md.png 768w"  alt=""><br><a href="https://r6s.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5">5. 彩虹六号围攻百科</a><br>百科由灰机wiki托管，灰机wiki是一个中文的维基农场（维基自助托管平台），用户可以申请建立自己的百科网站，灰机里也有许多有趣的百科，比如卫星百科、临高启明等等。<br><img loading="lazy" src="https://www.lylelove.top/media/posts/3/G2WRMKmzqtucFrY.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/3/responsive/G2WRMKmzqtucFrY-xs.png 300w ,https://www.lylelove.top/media/posts/3/responsive/G2WRMKmzqtucFrY-sm.png 480w ,https://www.lylelove.top/media/posts/3/responsive/G2WRMKmzqtucFrY-md.png 768w"  alt=""><br><a href="https://ranhe.xyz/circle-reader/">6.Circle 阅读助手</a><br>Circle 是一个不错的浏览器扩展，又更新了很多实用功能，喜欢在网页上看小说和大段文字的用户必备扩展。<br><img loading="lazy" src="https://www.lylelove.top/media/posts/3/oHjYrxKJZN1E9aL.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/3/responsive/oHjYrxKJZN1E9aL-xs.png 300w ,https://www.lylelove.top/media/posts/3/responsive/oHjYrxKJZN1E9aL-sm.png 480w ,https://www.lylelove.top/media/posts/3/responsive/oHjYrxKJZN1E9aL-md.png 768w"  alt=""></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"textAlign":"center"} --></p>
-<h2 class="has-text-align-center">资源</h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p><a href="https://wzfou.com/rss-reader-online/">1.在线RSS阅读器收集整理汇总-在线RSS阅读服务榜单</a><br>离线RSS阅读器五花八门，PC软件、浏览器扩展以及手机APP等，可谓选择众多，但是近几年在线的RSS阅读器和阅读服务出现式微的情况，陆陆续续地出现RSS在线阅读器关闭或者转型收费的情况，想要找到一个适合自己的RSS阅读器真的太难了。<br><a href="https://www.appinn.com/freecodecamp/">2.freeCodeCamp–2700+ 小时交互式编程课，所有内容免费开放</a><br>freeCodeCamp 是一个免费学习编程，并能获得认证的网站，拥有超过 2700 小时的视频、文章和交互式编程课程，所有内容免费开放。课程内容包括响应式网页设计、JavaScript 算法和数据结构、前端开发库、Python 与机器学习等 10 门中文课程。不少用户通过 freeCodeCamp 的认证后入职大型科技公司。<br><a href="https://www.ianvisits.co.uk/blog/2021/08/11/british-library-puts-1-million-newspaper-pages-online-for-free/">3.British Library puts 1 million newspaper pages online for free </a><br>大英图书馆将 100 万页报纸免费放在网上发布.英国报纸档案馆 (BNA) 拥有超过 4400 万页 1699 年至 2009 年的报纸版面，主要是英国和爱尔兰的，占大英图书馆所有报纸的不到 10%。 目前，每个月约有 50 万页被添加到 BNA。目前，访问该服务需要订阅，因为这有助于资助扫描和记录添加到在线档案中的每份报纸的成本。 不过，为了向研究人员开放更多档案，已经免费发布了 100 万页，并承诺在未来四年内每年再发布 100 万页。</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"level":3} --></p>
-<h3>推荐up主</h3>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p><a href="https://space.bilibili.com/266664645/video">山羊の前端小窝</a><br>也是一位搞前端的up主，暑假之后应该是在上大二。<br><img loading="lazy" src="https://www.lylelove.top/media/posts/3/OzHVdgNnZUrG6T2.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/3/responsive/OzHVdgNnZUrG6T2-xs.png 300w ,https://www.lylelove.top/media/posts/3/responsive/OzHVdgNnZUrG6T2-sm.png 480w ,https://www.lylelove.top/media/posts/3/responsive/OzHVdgNnZUrG6T2-md.png 768w"  alt=""></p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"textAlign":"center"} --></p>
-<h2 class="has-text-align-center">新知</h2>
-<p><!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p><a href="https://ioerr.github.io/posts/piping-de-mudi/">1.批评的目的</a><br>有的人批评别人喂屎，是因为不希望人人都被喂屎；<br>有的人批评别人喂屎，是要证明人人被喂屎很正当。<br><a href="https://yuguo.us/weblog/dont-be-stupid/">2.技术更智能了，人却变傻了</a><br>"我有一种恐惧：技术更智能了，人却变傻了。"<br><a href="http://www.nansey.me/one-wuhan-evening/">3.某个春天晚上</a><br>一篇挺有味道的小散文。<br>4.非洲的地形<br><img loading="lazy" src="https://www.lylelove.top/media/posts/3/lbMVaoXUhGD1y6t.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://www.lylelove.top/media/posts/3/responsive/lbMVaoXUhGD1y6t-xs.jpg 300w ,https://www.lylelove.top/media/posts/3/responsive/lbMVaoXUhGD1y6t-sm.jpg 480w ,https://www.lylelove.top/media/posts/3/responsive/lbMVaoXUhGD1y6t-md.jpg 768w"  alt=""></p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
