@@ -1,0 +1,35 @@
+{
+    "name": "竟何|写给你的长信",
+    "short_name": "竟何",
+    "description": "竟何的个人网站 - 思念跨过山海，你可以入梦来",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#212121",
+    "theme_color": "#28a9e0",
+    "orientation": "portrait-primary",
+    "lang": "zh-CN",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "https://cdn.jsdelivr.net/gh/lylelove/Course/img/logo.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://cdn.jsdelivr.net/gh/lylelove/Course/img/logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["personal", "blog", "portfolio"],
+    "screenshots": [
+        {
+            "src": "https://lylelove.github.io/picx-images-hosting/lyle.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide"
+        }
+    ]
+} 

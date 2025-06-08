@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://lylelove.github.io/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow crawling of certain directories (if any)
+# Disallow: /private/
+# Disallow: /temp/
+
+# Allow specific important pages
+Allow: /index.html
+Allow: /404.html
+Allow: /css/
+Allow: /js/
+Allow: /images/
+Allow: /fonts/ 
